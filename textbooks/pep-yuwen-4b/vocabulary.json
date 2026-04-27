@@ -1,0 +1,47 @@
+{
+  "textbookId": "pep-yuwen-4b",
+  "source": "写字表 + 识字表 (printed pp.137-141)；标题取自目录页 file_04/05",
+  "totalWriteCharacters": 250,
+  "totalReadCharacters": 250,
+  "lessons": [
+    { "unit": 1, "lessonId": 1,        "title": "古诗词三首",                    "characters": ["杂","稀","蜻","蜓","蝶","宿","徐","疏","茅","檐","翁","笼","赖","剥"], "recognitionCharacters": ["杂","篱","徐","疏","锄","剥"] },
+    { "unit": 1, "lessonId": 2,        "title": "乡下人家",                      "characters": ["构","饰","蹲","凤","序","投","例","率","竿","踏","倘","绘","谐","寄","眠"], "recognitionCharacters": ["构","冠","序","朴","素","率","倘","附","捣","绘","谐"] },
+    { "unit": 1, "lessonId": 3,        "title": "天窗",                          "characters": ["慰","藉","卜","锐","滩","帐","烁","蝙","蝠","霸","鹰"], "recognitionCharacters": ["慰","藉","卜"] },
+    { "unit": 1, "lessonId": 4,        "title": "三月桃花水（略读）",            "characters": [], "recognitionCharacters": ["绮","和","谈"] },
+
+    { "unit": 2, "lessonId": 5,        "title": "琥珀",                          "characters": ["怒","吼","脂","拭","餐","划","晌","辣","渗","挣","番","埋","刷","测","详"], "recognitionCharacters": ["琥","珀","嗡","脂","拭","渗","俯","扎","番","埋","澎","湃"] },
+    { "unit": 2, "lessonId": 6,        "title": "飞向蓝天的恐龙",                "characters": ["笨","钝","鸽","毫","凌","末","描","隧","态","吨","颅","膨","肢","翼","辟"], "recognitionCharacters": ["钝","描","隧","衍","吨","颅","膨","捷","辟","崭"] },
+    { "unit": 2, "lessonId": 7,        "title": "纳米技术就在我们身边",          "characters": ["纳","拥","箱","臭","蔬","碳","钢","隐","健","康","胞","疾","防","灶","需"], "recognitionCharacters": ["乒","乓","拥","菌","臭","蔬","碳","癌","症","率","疾","灶"] },
+    { "unit": 2, "lessonId": 8,        "title": "千年梦圆在今朝（略读）",        "characters": [], "recognitionCharacters": ["鹏","揽","驱","践","着","党","施","懈","宛","碑"] },
+    { "unit": 2, "lessonId": "园地二", "title": "语文园地",                      "characters": [], "recognitionCharacters": ["宾","吉","咸","兆","廷","予","肿","阶","趾","逻","政","浏"] },
+
+    { "unit": 3, "lessonId": 9,        "title": "短诗三首",                      "characters": ["繁","漫","灭","藤","萝","膝","涛","躲"], "recognitionCharacters": ["漫","涛"] },
+    { "unit": 3, "lessonId": 10,       "title": "绿",                            "characters": ["瓶","挤","叉","挥"], "recognitionCharacters": ["挤","叉"] },
+    { "unit": 3, "lessonId": 11,       "title": "白桦",                          "characters": ["桦","涂","茸","绣","潇","穗","朦","胧","寂","霞","抹"], "recognitionCharacters": ["绣","潇","绽","朦","胧","晖","徜","徉"] },
+    { "unit": 3, "lessonId": 12,       "title": "在天晴了的时候（略读）",        "characters": [], "recognitionCharacters": ["炫","垢","怯","曝","赤","携","涉","晕"] },
+    { "unit": 3, "lessonId": "园地三", "title": "语文园地",                      "characters": [], "recognitionCharacters": ["屈","渊","孟","甫","韩","愈","禹","锡","仲","龚"] },
+
+    { "unit": 4, "lessonId": 13,       "title": "猫",                            "characters": ["忧","虑","贪","职","屏","蹭","稿","腔","解","闷","蛇","遭","殃","盆","勃"], "recognitionCharacters": ["忧","虑","职","屏","蹭","稿","腔","殃","折"] },
+    { "unit": 4, "lessonId": 14,       "title": "母鸡",                          "characters": ["讨","厌","坝","忠","毒","绩","孵","警","戒","歪","咕","汤","掘","伏","啼"], "recognitionCharacters": ["疙","瘩","侮","恶","毒","聋","啄","伏","哼","啼","凄"] },
+    { "unit": 4, "lessonId": 15,       "title": "白鹅",                          "characters": ["调","促","颇","剧","苟","譬","侍","馆","附","脾","敏","捷","昂","供","添"], "recognitionCharacters": ["调","看","嚣","吭","吠","促","颇","奢","侈","苟","譬","侍","窥","伺"] },
+    { "unit": 4, "lessonId": "园地四", "title": "语文园地",                      "characters": [], "recognitionCharacters": ["肝","秆","俏","峭","哺","浦","沦","抡","焕","浣","俊","峻"] },
+
+    { "unit": 5, "lessonId": 16,       "title": "海上日出",                      "characters": ["扩","范","努","刹","烂","替","镶","紫","仅"], "recognitionCharacters": ["扩","荷","刹","镶"] },
+    { "unit": 5, "lessonId": 17,       "title": "记金华的双龙洞",                "characters": ["浙","罗","杜","鹃","窄","郁","肩","臀","移","额","陆","乳","笋","端","源"], "recognitionCharacters": ["浙","簇","臀","漆","蜿","蜒"] },
+
+    { "unit": 6, "lessonId": 18,       "title": "文言文二则",                    "characters": ["囊","萤","恭","勤","博","贫","逢"], "recognitionCharacters": ["恭","勤","焉","卒"] },
+    { "unit": 6, "lessonId": 19,       "title": "小英雄雨来（节选）",            "characters": ["晋","扭","炕","铅","兵","晃","哩","胳","膊","劫","绸","扒","敌","尸","慌"], "recognitionCharacters": ["晋","絮","扭","姥","吧","塞","呜","哇","糠","栓","捆","绑","劫","毙","扒","尸"] },
+    { "unit": 6, "lessonId": 20,       "title": "我们家的男子汉（略读）",        "characters": [], "recognitionCharacters": ["徽","谜","唇","尚","拌","倔","强","嘱","咐","忍","沮","吭","仪","蹬","妨"] },
+    { "unit": 6, "lessonId": 21,       "title": "芦花鞋（略读）",                "characters": [], "recognitionCharacters": ["搓","葵","祈","遗","憾","污","屑"] },
+
+    { "unit": 7, "lessonId": 22,       "title": "古诗三首",                      "characters": ["芙","蓉","洛","壶","雁"], "recognitionCharacters": ["芙","蓉","洛","单","砚","乾","坤"] },
+    { "unit": 7, "lessonId": 23,       "title": "黄继光",                        "characters": ["营","射","弹","荣","爆","炸"], "recognitionCharacters": ["役","屡","摧","雹","晕","膛"] },
+    { "unit": 7, "lessonId": 24,       "title": "“诺曼底号”遇难记",             "characters": ["伦","腹","剖","窟","窿","混","嘶","维","秩","岗","宰","措","遣","践"], "recognitionCharacters": ["弥","脉","葬","剖","裸","泣","汹","维","秩","酣","械","岗","宰","遣"] },
+    { "unit": 7, "lessonId": 25,       "title": "挑山工（略读）",                "characters": [], "recognitionCharacters": ["泰","杖","敞","拘","蕴"] },
+    { "unit": 7, "lessonId": "园地七", "title": "语文园地",                      "characters": [], "recognitionCharacters": ["蔼","慷","慨","贤","戚","惧","彬","躁","焚"] },
+
+    { "unit": 8, "lessonId": 26,       "title": "宝葫芦的秘密（节选）",          "characters": ["介","绍","妖","矩","乖","撵","烫","丫","拽","福","舔","葵","瘦","棒","罢"], "recognitionCharacters": ["妖","矩","乖","撵","丫","拽","冲","瘦"] },
+    { "unit": 8, "lessonId": 27,       "title": "巨人的花园",                    "characters": ["硕","允","砌","牌","禁","惩","踪","啸","私","颊","拆"], "recognitionCharacters": ["硕","允","砌","覆","啸","缕","搂","颊"] },
+    { "unit": 8, "lessonId": 28,       "title": "海的女儿（略读）",              "characters": [], "recognitionCharacters": ["矢","殿","抚","鲸","恰"] }
+  ]
+}
