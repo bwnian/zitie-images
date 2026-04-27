@@ -1,0 +1,45 @@
+{
+  "textbookId": "pep-yuwen-3a",
+  "source": "写字表 + 识字表 (printed pp.109-113)；标题取自目录页 (file page_04/05) 与实际课文标题页",
+  "totalWriteCharacters": 250,
+  "totalReadCharacters": 250,
+  "lessons": [
+    { "unit": 1, "lessonId": 1,        "title": "大青树下的小学",            "characters": ["坡","球","招","呼","飘","扬","读","热","闹","粗","壮","洁"], "recognitionCharacters": ["绒","昂","扬","凤","墙","晃"] },
+    { "unit": 1, "lessonId": 2,        "title": "花的学校",                  "characters": ["轰","湿","润","笛","狂","功","罚","互","碰","黄","急"], "recognitionCharacters": ["轰","湿","荒","笛","罚","假","臂"] },
+    { "unit": 1, "lessonId": 3,        "title": "不懂就要问（略读）",        "characters": [], "recognitionCharacters": ["诵","例","糊","戒","厉","详","挨"] },
+
+    { "unit": 2, "lessonId": 4,        "title": "古诗三首",                  "characters": ["庭","相","未","寒","径","斜","枫","霜","挑","深","落"], "recognitionCharacters": ["庭","未","磨","斜","萧","挑","促"] },
+    { "unit": 2, "lessonId": 5,        "title": "铺满金色巴掌的水泥道",      "characters": ["朗","晶","珠","粘","印","案","展","列","规","则","凌","乱"], "recognitionCharacters": ["粘","印","列","凌","增","棕"] },
+    { "unit": 2, "lessonId": 6,        "title": "秋天的雨",                  "characters": ["凉","杏","枚","邮","票","爽","挤","争","菊","频","勾","挖","油"], "recognitionCharacters": ["钥","匙","缤","枚","邮","爽","橘","频","梨","勾","喇","叭"] },
+    { "unit": 2, "lessonId": 7,        "title": "听听，秋的声音（略读）",    "characters": [], "recognitionCharacters": ["抖","振","韵","掠","吟","辽","阔"] },
+
+    { "unit": 3, "lessonId": 8,        "title": "总也倒不了的老屋",          "characters": ["屋","板","准","备","等","暴","哦","钻","爬","漂","晒"], "recognitionCharacters": ["眯","哦","喵","孵","叽","缝","偶","尔"] },
+    { "unit": 3, "lessonId": 9,        "title": "犟龟（略读）",              "characters": [], "recognitionCharacters": ["陶","适","谈","婚","庆","典","途","括","史","倍","几","持","官"] },
+    { "unit": 3, "lessonId": 10,       "title": "小狗学叫（略读）",          "characters": [], "recognitionCharacters": ["陌","吗","讨","厌","访","记","忍","委","中","弹","疯","局","汪","搞"] },
+    { "unit": 3, "lessonId": "园地三", "title": "语文园地",                  "characters": ["恒","圣","萌","妥","轴","阁","培","厘"], "recognitionCharacters": ["恒","圣","萌","妥","轴","阁","培","厘"] },
+
+    { "unit": 4, "lessonId": 11,       "title": "宝葫芦的秘密（节选）",      "characters": ["葫","芦","错","普","宫","肯","冒","式","怜"], "recognitionCharacters": ["普","少","矩","丫","宫","掘","希","冲","联","系","葵","瘦","罢"] },
+    { "unit": 4, "lessonId": 12,       "title": "在牛肚子里旅行",            "characters": ["旅","另","睛","及","卷","救","命","尾","齿","胃","管","刚","咬"], "recognitionCharacters": ["答","应","及","卷","骨","碌","齿","嚼","吞","胃","咽"] },
+    { "unit": 4, "lessonId": 13,       "title": "一块奶酪（略读）",          "characters": [], "recognitionCharacters": ["宣","处","恐","诱","毅","强","纪","性","渣","犯","禁","旧","聚"] },
+    { "unit": 4, "lessonId": "园地四", "title": "语文园地",                  "characters": ["申","介","绍","宗","旨","占","乏"], "recognitionCharacters": ["申","介","绍","宗","旨","占","乏"] },
+
+    { "unit": 5, "lessonId": 14,       "title": "搭船的鸟",                  "characters": ["搭","亲","祖","披","摇","停","羽","翠","蓝","静","悄","吞","捕"], "recognitionCharacters": ["舱","啦","鹦","鹉","衔"] },
+    { "unit": 5, "lessonId": 15,       "title": "金色的草地",                "characters": ["蒲","英","盛","要","使","劲","脸","欠","朝","钓","察","拢","喜"], "recognitionCharacters": ["蒲","英","耍","茸","欠","拢"] },
+
+    { "unit": 6, "lessonId": 16,       "title": "富饶的西沙群岛",            "characters": ["景","优","淡","浅","底","岩","鹿","划","布","茂","密","厚","料"], "recognitionCharacters": ["饶","优","崖","参","懒","划","威","武","插","栖","厚","粪","辈"] },
+    { "unit": 6, "lessonId": 17,       "title": "海滨小城",                  "characters": ["滨","棕","帆","灰","跟","渔","壳","院","亚","透","除","踩"], "recognitionCharacters": ["滨","胳","臂","滩","眨","载","逢"] },
+    { "unit": 6, "lessonId": 18,       "title": "美丽的小兴安岭",            "characters": ["抽","封","严","挡","坛","显","苍","药","材","软","刮","捉"], "recognitionCharacters": ["兴","融","侧","欣","封","漫","乳","梢","宿","舍","药","眠"] },
+    { "unit": 6, "lessonId": 19,       "title": "香港，璀璨的明珠（略读）",  "characters": [], "recognitionCharacters": ["贸","愧","仅","议","政","府","赠","幻","焰","澳","扮","角"] },
+
+    { "unit": 7, "lessonId": 20,       "title": "古诗三首",                  "characters": ["返","望","断","楚","至","岸","孤","饮","亦","欲","抹","宜"], "recognitionCharacters": ["返","苔","亦","抹","宜"] },
+    { "unit": 7, "lessonId": 21,       "title": "大自然的声音",              "characters": ["妙","奏","琴","柔","感","充","威","器","汇","鸣","塘"], "recognitionCharacters": ["妙","奏","呢","喃","激","伟","充","击","器","汇"] },
+    { "unit": 7, "lessonId": 22,       "title": "读不完的大书",              "characters": ["虾","昆","仅","序","荣","枯","姿","态","刺","梨","部","奥","秘"], "recognitionCharacters": ["麻","旋","序","贞","姿","笋","超","凡","俗","臭","秘"] },
+    { "unit": 7, "lessonId": "园地七", "title": "语文园地",                  "characters": ["螺","螃","蟹","鲤","鲫","鲨"], "recognitionCharacters": ["螺","螃","蟹","鲤","鲫","鲨"] },
+
+    { "unit": 8, "lessonId": 23,       "title": "司马光",                    "characters": ["司","登","跌","皆","弃","持","击"], "recognitionCharacters": ["司","皆","弃"] },
+    { "unit": 8, "lessonId": 24,       "title": "一定要争气",                "characters": ["念","差","考","试","均","退","努","单","留","度","奋"], "recognitionCharacters": ["裕","差","均","资","欧","洲","授","项","验","构","耐","励"] },
+    { "unit": 8, "lessonId": 25,       "title": "手术台就是阵地",            "characters": ["棒","伤","陆","血","取","盘","匆","医","迅","速","夺","秒"], "recognitionCharacters": ["棒","大","血","硝","危","险","势","瓦","帘","担","迅","速","夺","秒"] },
+    { "unit": 8, "lessonId": 26,       "title": "一个粗瓷大碗（略读）",      "characters": [], "recognitionCharacters": ["瓷","赵","抗","束","缸","还","顿","灶","沾","禁","锅","侦"] },
+    { "unit": 8, "lessonId": "园地八", "title": "语文园地",                  "characters": ["睁","眨","瞪","瞅","怒","眶","呆","睹"], "recognitionCharacters": ["睁","眨","瞪","瞅","怒","眶","呆","睹"] }
+  ]
+}

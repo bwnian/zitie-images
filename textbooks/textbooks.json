@@ -1,0 +1,17 @@
+{
+  "default": "pep-yuwen-3b",
+  "books": [
+    { "id": "pep-yuwen-1a", "grade": 1, "term": "a", "label": "一年级上册", "ready": false },
+    { "id": "pep-yuwen-1b", "grade": 1, "term": "b", "label": "一年级下册", "ready": false },
+    { "id": "pep-yuwen-2a", "grade": 2, "term": "a", "label": "二年级上册", "ready": false },
+    { "id": "pep-yuwen-2b", "grade": 2, "term": "b", "label": "二年级下册", "ready": false },
+    { "id": "pep-yuwen-3a", "grade": 3, "term": "a", "label": "三年级上册", "ready": false },
+    { "id": "pep-yuwen-3b", "grade": 3, "term": "b", "label": "三年级下册", "ready": true },
+    { "id": "pep-yuwen-4a", "grade": 4, "term": "a", "label": "四年级上册", "ready": false },
+    { "id": "pep-yuwen-4b", "grade": 4, "term": "b", "label": "四年级下册", "ready": false },
+    { "id": "pep-yuwen-5a", "grade": 5, "term": "a", "label": "五年级上册", "ready": false },
+    { "id": "pep-yuwen-5b", "grade": 5, "term": "b", "label": "五年级下册", "ready": false },
+    { "id": "pep-yuwen-6a", "grade": 6, "term": "a", "label": "六年级上册（五·四学制）", "ready": false },
+    { "id": "pep-yuwen-6b", "grade": 6, "term": "b", "label": "六年级下册（五·四学制）", "ready": false }
+  ]
+}
