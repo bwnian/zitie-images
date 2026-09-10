@@ -1,12 +1,86 @@
 {
   "id": "pep-yuwen-4a",
   "publisher": "人民教育出版社",
-  "edition": "部编版",
+  "edition": "根据2022年版课程标准修订",
   "subject": "语文",
   "grade": "四年级",
   "term": "上册",
   "totalPages": 138,
   "smarteduId": "5cd7e623-5c38-4602-871a-3fba8a551db2",
-  "totalCharacters": 0,
-  "units": []
+  "totalCharacters": 250,
+  "units": [
+    {
+      "id": 1,
+      "title": "第一单元",
+      "lessons": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "title": "第二单元",
+      "lessons": [
+        4,
+        5,
+        6,
+        "园地二"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "第三单元",
+      "lessons": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 4,
+      "title": "第四单元",
+      "lessons": [
+        11,
+        12,
+        13,
+        "园地四"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "第五单元",
+      "lessons": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": 6,
+      "title": "第六单元",
+      "lessons": [
+        17,
+        18,
+        "园地六"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "第七单元",
+      "lessons": [
+        20,
+        21,
+        23,
+        "园地七"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "第八单元",
+      "lessons": [
+        24,
+        25,
+        27
+      ]
+    }
+  ]
 }

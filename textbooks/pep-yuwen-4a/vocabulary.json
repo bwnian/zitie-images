@@ -1,0 +1,46 @@
+{
+  "textbookId": "pep-yuwen-4a",
+  "source": "识字表 + 写字表 (printed pp.122-126)",
+  "totalWriteCharacters": 250,
+  "totalReadCharacters": 250,
+  "lessons": [
+    {"unit": 1, "lessonId": 1, "title": "观潮", "characters": ["据", "随", "堤", "顿", "逐", "渐", "堵", "墙", "浩", "崩", "霎", "余"], "recognitionCharacters": ["盐", "鼎", "沸", "浩", "崩", "霎", "余", "漫", "吼"], "polyphones": ["薄", "隆"]},
+    {"unit": 1, "lessonId": 2, "title": "繁星", "characters": ["繁", "怀", "寂", "谈", "熟", "躺", "模", "糊", "围", "舞"], "recognitionCharacters": ["昧", "坠", "萤"]},
+    {"unit": 1, "lessonId": 3, "title": "现代诗二首（略读）", "characters": [], "recognitionCharacters": ["巢", "苇", "瞬", "穗", "罗", "霸"]},
+
+    {"unit": 2, "lessonId": 4, "title": "一个豆荚里的五粒豆", "characters": ["舒", "适", "揭", "晓", "滚", "滑", "擦", "探", "曾", "沟", "涨"], "recognitionCharacters": ["豌", "僵", "预", "揭", "囚", "劈", "框", "吻", "脏", "溢", "健", "康"]},
+    {"unit": 2, "lessonId": 5, "title": "夜间飞行的秘密", "characters": ["蚊", "即", "题", "绳", "嘴", "蝇", "研", "究", "驾", "驶"], "recognitionCharacters": ["蝙", "蝠", "蛾", "避", "锐", "蝇", "障", "碍", "荧", "驾"], "polyphones": ["屏"]},
+    {"unit": 2, "lessonId": 6, "title": "方帽子店", "characters": ["帽", "脑", "袋", "假", "扣", "懂", "溜", "筒", "摆", "玻", "璃"], "recognitionCharacters": ["橱", "蕉", "扣", "嚷", "筒", "董"], "polyphones": ["溜"]},
+    {"unit": 2, "lessonId": 7, "title": "田忌赛马（略读）", "characters": [], "recognitionCharacters": ["忌", "获", "赢", "拳", "跃", "测", "输", "谋", "策", "荐"], "polyphones": ["将", "划"]},
+    {"unit": 2, "lessonId": "园地二", "title": "语文园地二", "characters": ["纲", "揍", "锈", "沫", "综", "氧", "账", "矿", "俱"], "recognitionCharacters": ["纲", "揍", "锈", "沫", "综", "氧", "账", "矿", "俱"]},
+
+    {"unit": 3, "lessonId": 8, "title": "古诗三首", "characters": ["残", "铺", "壁", "横", "侧", "峰", "庐", "缘", "降", "评", "章", "输"], "recognitionCharacters": ["暮", "残", "瑟", "缘", "骚", "评", "逊"], "polyphones": ["降"]},
+    {"unit": 3, "lessonId": 9, "title": "爬山虎的脚", "characters": ["虎", "脚", "操", "嫩", "隙", "柄", "触", "痕", "迹", "瞧"], "recognitionCharacters": ["茎", "柄", "蜗", "萎"], "polyphones": ["曲"]},
+    {"unit": 3, "lessonId": 10, "title": "蟋蟀的住宅", "characters": ["宅", "毫", "重", "选", "择", "址", "厅", "专", "修", "较", "腿", "增"], "recognitionCharacters": ["蟋", "蟀", "宅", "慎", "址", "畅", "倾", "骤", "置", "糙", "朴", "燥"]},
+
+    {"unit": 4, "lessonId": 11, "title": "盘古开天地", "characters": ["醒", "翻", "缓", "踏", "丈", "撑", "疲", "竭", "耀", "肢", "整"], "recognitionCharacters": ["斧", "缓", "浊", "丈", "肢", "躯", "液"]},
+    {"unit": 4, "lessonId": 12, "title": "精卫填海", "characters": ["填", "帝", "曰", "娃", "衔"], "recognitionCharacters": ["曰", "溺"]},
+    {"unit": 4, "lessonId": 13, "title": "普罗米修斯", "characters": ["喷", "颗", "败", "敬", "佩", "忍", "既", "遭", "屈", "肝", "脏", "获"], "recognitionCharacters": ["斯", "悲", "惨", "盗", "驰", "佩", "违", "锁", "遭", "肝", "愤", "砸"], "polyphones": ["脏"]},
+    {"unit": 4, "lessonId": 14, "title": "女娲补天（略读）", "characters": [], "recognitionCharacters": ["兽", "措", "陷", "混", "拣", "燃", "炼", "熄", "浆", "杀", "颂"]},
+    {"unit": 4, "lessonId": "园地四", "title": "语文园地四", "characters": ["卉", "玫", "瑰", "牡", "丹", "蕾", "茉", "莉", "棠"], "recognitionCharacters": ["卉", "玫", "瑰", "牡", "丹", "蕾", "茉", "莉", "棠"]},
+
+    {"unit": 5, "lessonId": 15, "title": "麻雀", "characters": ["嗅", "猛", "烈", "奈", "躯", "掩", "浑", "牺", "牲", "庞", "强", "量"], "recognitionCharacters": ["嗅", "奈", "拯", "嘶", "哑", "牺", "牲", "庞"]},
+    {"unit": 5, "lessonId": 16, "title": "爬天都峰", "characters": ["哩", "陡", "级", "链", "颤", "纪", "攀", "猴", "呵", "啦", "鼓"], "recognitionCharacters": ["链", "颤", "攀", "辫", "呵"]},
+
+    {"unit": 6, "lessonId": 17, "title": "长城", "characters": ["峻", "旋", "扩", "砖", "筑", "隔", "仗", "扶", "耗", "智", "慧"], "recognitionCharacters": ["峻", "基", "础", "扩", "砖", "屯", "兵", "堡", "垒", "仗", "畜", "耗"]},
+    {"unit": 6, "lessonId": 18, "title": "颐和园", "characters": ["绕", "幅", "栽", "耸", "腰", "煌", "镜", "隐", "狮"], "recognitionCharacters": ["殿", "漆", "琉", "煌"], "polyphones": ["佛"]},
+    {"unit": 6, "lessonId": 19, "title": "秦兵马俑（略读）", "characters": [], "recognitionCharacters": ["享", "誉", "宏", "皇", "率", "靴", "誓", "塑", "惟", "肖", "拟", "逼"], "polyphones": ["着"]},
+    {"unit": 6, "lessonId": "园地六", "title": "语文园地六", "characters": ["萨", "昭", "陵", "寝", "堰", "尼", "绸", "廊"], "recognitionCharacters": ["萨", "昭", "陵", "寝", "堰", "尼", "绸", "廊"]},
+
+    {"unit": 7, "lessonId": 20, "title": "牛和鹅", "characters": ["鹅", "骑", "拳", "竖", "竟", "胸", "鞋", "拖", "胳", "膊", "握", "摔"], "recognitionCharacters": ["鹅", "屁", "股", "谓", "捶", "顽", "吁", "膊", "瓶", "怖", "欺", "掐"]},
+    {"unit": 7, "lessonId": 21, "title": "一只窝囊的大老虎", "characters": ["表", "演", "俩", "练", "捧", "示", "技", "撤", "推", "哄", "堂", "摘"], "recognitionCharacters": ["羡", "殷", "逗", "撇", "霉", "亏", "撤", "哄", "拙"], "polyphones": ["露", "啊", "唉"]},
+    {"unit": 7, "lessonId": 22, "title": "陀螺（略读）", "characters": [], "recognitionCharacters": ["质", "岳", "削", "废", "骂", "帅", "衅", "扭", "彻", "溃", "豪"], "polyphones": ["钉"]},
+    {"unit": 7, "lessonId": 23, "title": "王戎不取道旁李", "characters": ["戎", "诸", "竞", "唯"], "recognitionCharacters": ["戎", "诸", "竞", "唯"]},
+    {"unit": 7, "lessonId": "园地七", "title": "语文园地七", "characters": ["韭", "芹", "椒", "蒜", "薯", "藕", "芋", "姜"], "recognitionCharacters": ["韭", "芹", "椒", "蒜", "薯", "藕", "芋", "姜"]},
+
+    {"unit": 8, "lessonId": 24, "title": "我将无我，不负人民", "characters": ["席", "抛", "激", "奉", "训", "亿", "勤", "邀"], "recognitionCharacters": ["菲", "抛", "奉", "亿", "邀"]},
+    {"unit": 8, "lessonId": 25, "title": "为中华之崛起而读书", "characters": ["崛", "肃", "脆", "默", "晰", "离", "凡", "惩", "斥", "燃"], "recognitionCharacters": ["崛", "范", "魏", "默", "晰", "惑", "轧", "惩", "肇", "斥", "辱"]},
+    {"unit": 8, "lessonId": 26, "title": "延安，我把你追寻（略读）", "characters": [], "recognitionCharacters": ["昔", "茅", "炕", "索", "媚"]},
+    {"unit": 8, "lessonId": 27, "title": "古诗三首", "characters": ["词", "葡", "萄", "杯", "塞", "秦", "将", "杰", "鬼", "雄", "项"], "recognitionCharacters": ["催", "君", "征", "塞", "秦", "杰", "鬼"]}
+  ]
+}
